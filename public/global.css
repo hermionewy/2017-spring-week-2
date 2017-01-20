@@ -10,3 +10,9 @@ body{
 .plot{
 	min-height:500px;
 }
+
+.time-series-line{
+	fill:none;
+	stroke: rgb(0,0,0);
+	stroke-width: 1px;
+}
